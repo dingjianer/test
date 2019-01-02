@@ -4,7 +4,7 @@ int main()
 	int i;
 	i=1;
 	while(i<=5){
-			printf("hello world\n");
+		printf("****\n");
 		i++;
 	}
 
